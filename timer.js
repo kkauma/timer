@@ -1,4 +1,5 @@
 class Timer {
+  // Initialize constructor
   constructor(durationInput, startButton, pauseButton, callbacks) {
     this.durationInput = durationInput;
     this.startButton = startButton;
